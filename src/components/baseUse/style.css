@@ -1,0 +1,14 @@
+
+.modal {
+    --h: 300px;
+    position: fixed;
+    width: 300px;
+    height: var(--h);
+    top: 100px;
+    left: 50%;
+    margin-left: -150px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    line-height: var(--h);
+}
